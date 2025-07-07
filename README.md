@@ -11,7 +11,7 @@ This is a database-driven project designed to track and manage all core sales ac
 ### Project Structure
 ## 1. Create Database
 * The project starts by creating a database named `sales_db`
-* Tabble creation A table named `sales_table` is created to store the sales data. The table structure includes columns for transaction ID, sale date, sale time, customer ID, gender, age, product category, quantity sold, price per unit, cost of goods sold (COGS), and total sale amount.
+* Table creation A table named `sales_table` is created to store the sales data. The table structure includes columns for transaction ID, sale date, sale time, customer ID, gender, age, product category, quantity sold, price per unit, cost of goods sold (COGS), and total sale amount.
  
 ```ruby
 CREATE DATABASE sales_db;
